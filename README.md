@@ -9,11 +9,11 @@ Este é um projeto de Pokédex que utiliza a API PokeAPI para obter informaçõe
 - Explore uma extensa base de dados de Pokémon.
 
 ## Capturas de Tela
-![Captura](screenshots/Captura de tela 02)
-![Captura](screenshots/Captura de tela 03)
-![Captura](screenshots/Captura de tela 04)
-![Captura](screenshots/Captura de tela 05)
-![Captura](screenshots/Captura de tela 06)
+![Captura](screenshots/Captura de tela 02.png)
+![Captura](screenshots/Captura de tela 03.png)
+![Captura](screenshots/Captura de tela 04.png)
+![Captura](screenshots/Captura de tela 05.png)
+![Captura](screenshots/Captura de tela 06.png)
 
 
 ## API PokeAPI
