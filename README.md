@@ -9,8 +9,13 @@ Este é um projeto de Pokédex que utiliza a API PokeAPI para obter informaçõe
 - Explore uma extensa base de dados de Pokémon.
 
 ## Capturas de Tela
-![Tela de Pesquisa](screenshots/search.png)
-![Detalhes do Pokémon](screenshots/pokemon-details.png)
+
+
+![Captura](screenshots/captura-de-tela-02.png)
+![Captura](screenshots/captura-de-tela-03.png)
+![Captura](screenshots/captura-de-tela-04.png)
+![Captura](screenshots/captura-de-tela-05.png)
+![Captura](screenshots/captura-de-tela-06.png)
 
 
 ## API PokeAPI
@@ -25,3 +30,5 @@ Se você tiver alguma dúvida ou precisar de assistência, sinta-se à vontade p
 - Nome: Afonso
 - Email: afonso.silva.as73@gmail.com
 Este projeto ainda esta em desenvolvimento! obg <3
+
+
