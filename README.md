@@ -1,4 +1,4 @@
-# [Pokedex {:target="_blank"}](https://afonso-front-end.github.io/pokedex/)
+# [Pokedex](https://afonso-front-end.github.io/pokedex/)
 
 
 ## Descrição
