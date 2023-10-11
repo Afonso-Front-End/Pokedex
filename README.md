@@ -15,9 +15,6 @@ Este é um projeto de Pokédex que utiliza a API PokeAPI para obter informaçõe
 ![Detalhes do Pokémon](screenshots/pokemon-details.png)
 
 
-
-tação pull para este repositório com suas alterações.
-
 ## API PokeAPI
 Este projeto utiliza a [PokeAPI](https://pokeapi.co/), uma API pública que fornece informações abrangentes sobre Pokémon. Certifique-se de revisar a documentação da API para entender melhor como as solicitações podem ser feitas e quais dados estão disponíveis.
 
