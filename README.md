@@ -1,6 +1,4 @@
-Claro, aqui está um exemplo de um README para uma Pokédex que utiliza a API PokeAPI, com o título "Pokedex" contendo um link para mais informações:
-
-# [Pokedex]([https://pokeapi.co/](https://afonso-front-end.github.io/pokedex/))
+# [Pokedex]([https://pokeapi.co/](https://afonso-front-end.github.io/pokedex/])
 
 ## Descrição
 Este é um projeto de Pokédex que utiliza a API PokeAPI para obter informações detalhadas sobre Pokémon. Com esta aplicação, você pode pesquisar, explorar e aprender mais sobre os Pokémon do mundo.
