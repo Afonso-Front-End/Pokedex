@@ -1,4 +1,4 @@
-# [Pokedex](https://afonso-front-end.github.io/pokedex/)
+[Pokedex](https://afonso-front-end.github.io/pokedex/){:target="_blank"}
 
 ## Descrição
 Este é um projeto de Pokédex que utiliza a API PokeAPI para obter informações detalhadas sobre Pokémon. Com esta aplicação, você pode pesquisar, explorar e aprender mais sobre os Pokémon do mundo.
