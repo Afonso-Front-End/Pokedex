@@ -1,5 +1,6 @@
 # [Pokedex](https://afonso-front-end.github.io/pokedex/)
 
+
 ## Descrição
 Este é um projeto de Pokédex que utiliza a API PokeAPI para obter informações detalhadas sobre Pokémon. Com esta aplicação, você pode pesquisar, explorar e aprender mais sobre os Pokémon do mundo.
 
@@ -12,10 +13,10 @@ Este é um projeto de Pokédex que utiliza a API PokeAPI para obter informaçõe
 
 
 ![Captura](screenshots/captura-de-tela-02.png)
+![Captura](screenshots/captura-de-tela-06.png)
 ![Captura](screenshots/captura-de-tela-03.png)
 ![Captura](screenshots/captura-de-tela-04.png)
 ![Captura](screenshots/captura-de-tela-05.png)
-![Captura](screenshots/captura-de-tela-06.png)
 
 
 ## API PokeAPI
