@@ -16,7 +16,7 @@
     .content {
         padding: 0 0.5rem;
     }
-    #lupa {
+    #lupa { 
         width: 100%;
     }
 }
@@ -122,5 +122,14 @@
     }
     menu {
         display: block;
+    }
+    .container-modal button{
+        width: 100px;
+        background-color: #FF4655;
+        color: #F2F2F2;
+        font-weight: 800;
+        border-radius: 4px;
+        position: relative;
+        left: 80px;
     }
 }
