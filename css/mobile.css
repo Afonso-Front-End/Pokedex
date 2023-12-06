@@ -108,7 +108,8 @@
         transition: all 200ms linear;
         cursor: pointer;
         color: #FDFDFD;
-        border-radius: 0;
+        border-radius: 5px;
+
     }
     #lupa input{
         width: 100%;

@@ -71,6 +71,7 @@ menu button:hover {
     font-size: 16px;
     padding: 0.5rem 0   ;
     border-radius: 4px;
+    cursor: pointer;
 }
 #menu-lista li button:hover   {
     background-color: #FF4655;
@@ -85,7 +86,7 @@ menu button:hover {
     flex-direction: column;
 }
 #geracoes li button{
-    padding: 0.6rem 0;
+    padding: 0.6rem 0.5rem;
     border-radius: 4px;
     font-size: 16px;
 }
